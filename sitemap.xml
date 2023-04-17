@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://www.wbb520.love/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wbb520.love/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.wbb520.love/life/games/index.html</loc>
+    <loc>https://www.wbb520.love/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -47,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.wbb520.love/box/nav/index.html</loc>
+    <loc>https://www.wbb520.love/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +65,16 @@
   </url>
   
   <url>
-    <loc>https://www.wbb520.love/personal/about/index.html</loc>
+    <loc>https://www.wbb520.love/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wbb520.love/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.wbb520.love/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wbb520.love/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.wbb520.love/site/time/index.html</loc>
+    <loc>https://www.wbb520.love/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://www.wbb520.love/social/link/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wbb520.love/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
